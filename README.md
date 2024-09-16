@@ -67,7 +67,7 @@ Using these steps we are making the descriptions and the actions more consistent
 
 ## Acknowledgements
 
-This project was based on live demos from RagHack https://github.com/microsoft/RAG_Hack?tab=readme-ov-file
+This project is based on live demos from RagHack https://github.com/microsoft/RAG_Hack?tab=readme-ov-file
 
 For streamlit part we used the code from https://docs.streamlit.io/develop/tutorials/llms/build-conversational-apps
 
