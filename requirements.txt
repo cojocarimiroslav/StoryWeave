@@ -1,0 +1,14 @@
+streamlit
+openai
+azure-keyvault-secrets
+azure-identity
+azure-storage-blob
+psycopg2
+pgvector
+langchain
+langchain_core
+langchain_openai
+langchain_community
+numpy
+uuid
+neo4j
