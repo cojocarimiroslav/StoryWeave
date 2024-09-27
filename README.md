@@ -3,7 +3,7 @@ An interactive text-based game that is using a base story for action generation
 
 StoryWeave is an interactive, AI-powered storytelling platform that allows users to play through a dynamic, custom-built narrative where their decisions shape the story. Using Retrieval-Augmented Generation (RAG) and Azure, players choose their own adventure, guiding them through a series of steps where each choice weaves the plot in new directions. Every decision influences the journey, creating a personalized experience that evolves at every turn.
 
-![Rag Hack](https://img.shields.io/badge/Hack%20Together-RAGHeck-purple?style=flat&logo=<LOGO_NAME>&logoColor=white&color=6a0dad)
+![Rag Hack](https://img.shields.io/badge/Hack%20Together-RAGHack-purple?style=flat&logo=<LOGO_NAME>&logoColor=white&color=6a0dad)
 
 
 ## Table of Contents
